@@ -11,9 +11,12 @@ Primitive: string, number, boolean, null(null value), undefined(whose value not 
 Non-Primitive: object, array, function
 
 # Operators:
-Arithmetic: +, -, *, /, %, **(exponencial)
+Arithmetic: +, -, *, /, %, **(exponencial)  
+
 Assignment: =, +=, -=, etc.
+
 Comparison: ==, ===, !=, !==, <, >
+
 Logical: &&, ||, !
 
 # String: 
