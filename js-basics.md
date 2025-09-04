@@ -1,21 +1,21 @@
-Variables:
+# Variables:
 var: gobal-scoped , reassigned, redeclare, Hoisted
 let: block-scoped, can be reassigned
 const: block-scoped, cannot be reassigned and redecared
 
-Data-types:
+# Data-types:
 Primitive: string, number, boolean, null(null value), undefined(whose value not defined), symbol, bigint(big Integer num)
 Non-Primitive: object, array, function
 
-Operators:
+# Operators:
 Arithmetic: +, -, *, /, %, **(exponencial)
 Assignment: =, +=, -=, etc.
 Comparison: ==, ===, !=, !==, <, >
 Logical: &&, ||, !
 
-String: 
+# String: 
 Sequence of character. denoted: (" ", ' ', or ` `)
-methods:
+### methods:
 length- returns number of characters
 
 toUpperCase()- convert to UPPERCASE
@@ -64,7 +64,7 @@ at(index)  character at index (supports negative)
 
 [index] - bracket notation to access characte
 
-Array:collection of storing similar type of elements
+# Array:collection of storing similar type of elements
 map() – Creates a new array by applying a function to each element.
 
 filter() – Creates a new array with elements that pass a test.
@@ -88,7 +88,7 @@ concat() – Merges arrays into a new one.
 flat() – Flattens nested arrays into a single array.
 
 
-Conditional Statements:
+# Conditional Statements:
 if – Executes block if condition is true
 
 if...else – Executes one block if true, another if false
@@ -100,7 +100,7 @@ switch – Matches value against cases, runs matching case
 ternary operator (? :) – Short form of if...else (single line)
 
 
-Loops:
+# Loops:
 for - Loop with initialization, condition, and increment/decrement
 
 while - Runs while condition is true
