@@ -1,10 +1,13 @@
 # Variables:
-var: gobal-scoped , reassigned, redeclare, Hoisted
-let: block-scoped, can be reassigned
+var: gobal-scoped , reassigned, redeclare, Hoisted  
+
+let: block-scoped, can be reassigned  
+
 const: block-scoped, cannot be reassigned and redecared
 
 # Data-types:
-Primitive: string, number, boolean, null(null value), undefined(whose value not defined), symbol, bigint(big Integer num)
+Primitive: string, number, boolean, null(null value), undefined(whose value not defined), symbol, bigint(big Integer num)  
+
 Non-Primitive: object, array, function
 
 # Operators:
